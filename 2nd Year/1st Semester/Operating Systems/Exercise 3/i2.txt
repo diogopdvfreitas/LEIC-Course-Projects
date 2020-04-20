@@ -1,0 +1,9 @@
+fibonacci 50000
+fibonacci 20000
+fibonacci 52000
+fibonacci 62222
+fibonacci 30000
+fibonacci 10000
+div0
+fibonacci 10001
+exit
