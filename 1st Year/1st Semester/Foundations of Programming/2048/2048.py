@@ -284,3 +284,5 @@ def jogo_2048 ():
         tab1 = preenche_posicao_aleatoria(tab2)                                             #Se a jogada estiver de acordo com as condicoes adicionara um valor numa posicao vazia aleatoria
         return jogo_2048_aux(tab1)
     return jogo_2048_aux(tab1)
+
+jogo_2048()
